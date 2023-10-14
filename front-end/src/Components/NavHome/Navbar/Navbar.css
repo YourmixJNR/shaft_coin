@@ -92,38 +92,5 @@
   display: none;
 }
 
+/* Responsiveness */
 
-@media (max-width: 320px) {
-}
-
-/* For screens between 321px and 480px */
-@media (min-width: 321px) and (max-width: 480px) {
-}
-
-/* For screens between 481px and 600px */
-@media (min-width: 481px) and (max-width: 600px) {
-}
-
-/* For screens between 601px and 768px */
-@media (min-width: 601px) and (max-width: 768px) {
-}
-
-/* For screens between 769px and 900px */
-@media (min-width: 769px) and (max-width: 900px) {
-}
-
-/* For screens between 901px and 1024px */
-@media (min-width: 901px) and (max-width: 1024px) {
-}
-
-/* For screens between 1025px and 1200px */
-@media (min-width: 1025px) and (max-width: 1200px) {
-  
-}
-
-/* For screens larger than 1200px */
-@media (min-width: 1201px) {
- .navbar{
-  
- }
-}
