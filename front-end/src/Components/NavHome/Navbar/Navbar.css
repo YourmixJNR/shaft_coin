@@ -94,3 +94,27 @@
 
 /* Responsiveness */
 
+@media(max-width:900px) { 
+  
+  .navbar .getStarted a {
+    padding: 0.7rem 1em;
+  }
+
+}
+
+@media(max-width:736px){ 
+
+  .navbar .getStarted a {
+    padding: 0.7rem 1em;
+  }
+
+}
+
+@media(max-width:384px){ 
+
+  .navbar .getStarted a {
+    padding: 0.5rem 0.8em;
+    font-size: 14px;
+  }
+  
+}
